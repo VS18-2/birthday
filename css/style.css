@@ -280,6 +280,19 @@ body {
           flex: 0 1 50%;
 }
 
+.main__text li {
+  list-style: none;
+  padding: 5px;
+  margin-top: 40px;
+}
+
+.main__text li a {
+  padding: 5px;
+  border: 1px solid gray;
+  color: black;
+  font-weight: bold;
+}
+
 .margin-top {
   margin-top: -150px;
 }
